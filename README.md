@@ -1,1 +1,1 @@
-# public api skeleton 
+# Workshop skeleton
